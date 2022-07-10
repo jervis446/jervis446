@@ -6,4 +6,4 @@ Developer @ [Sourcefuse](sourcefuse.com) and mainly work in JavaScript (Python o
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jervis446&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Discord: `Localhost#8080`. Feel free to not message me.
+Discord: `Localhost#0656`. Feel free to not message me.
